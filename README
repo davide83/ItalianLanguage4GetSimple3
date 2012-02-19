@@ -1,1 +1,17 @@
-This File are relased with the GNU GPL v3 LICENCE
+/**
+ * Italian Language File
+ *
+ * Date:  			19 Feb 2012
+ * Revision:		Feb 2012
+ * Version:			GetSimple 3.0
+ * Traductors: 	Davide Letizia 
+ *
+ * @package GetSimple
+ * @subpackage Language
+ */
+
+
+LICENSE:
+
+This is licensed under the GNU GENERAL PUBLIC LICENSE. 
+Please view the license at http://www.gnu.org/licenses/gpl-3.0.txt
